@@ -1,6 +1,6 @@
 class Person:
     def __init__(self, grno ,name, age):
-        self.geno =grno
+        self.grno =grno
         self.name = name
         self.age = age
 
